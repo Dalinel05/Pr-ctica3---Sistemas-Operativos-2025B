@@ -16,21 +16,30 @@ Incluye ejercicios implementados en **lenguaje C** enfocados en la **creación y
 
 ---
 
-## 🧩 Contenido del repositorio  
+## 🗂️ Estructura del repositorio  
 
-/Ejercicio1/
-└─ Código del Ejercicio 1
-/Ejercicio2/
-└─ Código del Ejercicio 2
-/Ejercicio3_ProcesoHijoSinEspera/
-└─ Ejemplo de proceso hijo sin espera
-/Ejercicio5_ProcesoZombie/
-└─ Ejemplo de proceso zombie
-/Ejercicio6_Exec/
-└─ Uso de funciones exec()
-/Ejercicio7_System/
-└─ Uso de la función system()
-README.md
+📁 **Práctica3---Sistemas-Operativos-2025B/**  
+│  
+├── 🧩 **Ejercicio1/**  
+│  └─ 💾 Código del *Ejercicio 1*  
+│  
+├── ⚙️ **Ejercicio2/**  
+│  └─ 🧮 Código del *Ejercicio 2*  
+│  
+├── 👶 **Ejercicio3_ProcesoHijoSinEspera/**  
+│  └─ 🧵 Ejemplo de proceso hijo sin espera  
+│  
+├── 💀 **Ejercicio5_ProcesoZombie/**  
+│  └─ 🧟 Demostración de proceso zombie  
+│  
+├── 🧠 **Ejercicio6_Exec/**  
+│  └─ ⚙️ Uso de funciones `exec()`  
+│  
+├── 💻 **Ejercicio7_System/**  
+│  └─ 🖥️ Uso de la función `system()`  
+│  
+└── 📜 **README.md**  
+  └─ Descripción general del proyecto  
 
 ---
 
@@ -70,13 +79,19 @@ Ejecutar
 ⚠️ Dependiendo del ejercicio, puede que el programa requiera permisos especiales o argumentos adicionales.
 
 🧠 Ejercicios incluidos
-Ejercicio	Tema principal	Descripción breve
+
 🧩 Ejercicio 1	Introducción a procesos	Creación básica de procesos en C
+
 🧩 Ejercicio 2	Comunicación básica	Sincronización entre procesos
+
 🧩 Ejercicio 3 – Proceso Hijo Sin Espera	Control de procesos	Creación de un proceso hijo sin espera de finalización
+
 💀 Ejercicio 5 – Proceso Zombie	Procesos huérfanos y zombies	Demostración de cómo se genera un proceso zombie
+
 ⚙️ Ejercicio 6 – Exec	Sustitución de procesos	Uso de la familia de funciones exec() para ejecutar otros programas
+
 💻 Ejercicio 7 – System	Invocación de comandos	Uso de system() para ejecutar comandos del sistema operativo
+
 🤝 Contribuciones
 
 Este proyecto forma parte de una actividad académica.
