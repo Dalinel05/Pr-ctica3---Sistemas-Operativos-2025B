@@ -105,4 +105,5 @@ Puedes utilizar el código como referencia personal o para estudio, pero no est�
 👤 Autor
 
 Nombre: Grupo C
+
 Materia: Sistemas Operativos – Ciclo 2025B
