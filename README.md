@@ -1,4 +1,4 @@
-# 🖥️ Práctica 3 – Sistemas Operativos 2025B  
+# Práctica 3 – Sistemas Operativos 2025B  
 ---
 
 ## Descripción  
