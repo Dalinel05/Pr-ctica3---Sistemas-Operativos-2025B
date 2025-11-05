@@ -1,1 +1,31 @@
+# 🌀 Crear Proceso Hijo y Listar Procesos con `system()` en Linux
 
+Este programa en C demuestra cómo **crear un proceso hijo** usando `fork()` y ejecutar un comando del sistema (`ps aux`) desde ese hijo mediante la función `system()`. ¡Ideal para entender los fundamentos de la programación de sistemas en entornos UNIX/Linux! 🐧
+
+---
+
+## 🎯 Objetivo
+
+Crear un **proceso hijo** que:
+- ✅ Liste todos los procesos del sistema usando `ps aux`.
+- ✅ Use `system()` para ejecutar comandos del shell.
+- ✅ Se sincronice con el proceso padre usando `wait()`.
+
+---
+
+## 📦 Requisitos
+
+| 🔧 Elemento        | Descripción                          |
+|--------------------|--------------------------------------|
+| **Sistema**        | Linux (probado en Ubuntu 22.04+)     |
+| **Compilador**     | `gcc`                                |
+| **Terminal**       | Cualquier shell compatible (bash, zsh) |
+
+---
+
+## ▶️ Cómo ejecutar
+
+1. **Clona o descarga** el código.
+2. **Compila** el programa:
+   ```bash
+   gcc -o listarprocesos.c
